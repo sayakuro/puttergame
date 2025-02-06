@@ -1,8 +1,13 @@
-## Hi there 👋
+## Yo! 👋
+
+**Am Name Put** I recently joined in writing these Code. It's hard but not easy for me.
+
+Now i do Modder Minecraft Fabric Version 
+- 🌨️ I'm Have A Dream is Devoloper Game | Website 
+
+**My current knowledge of code and language is 3%**
 
 <!--
-**puttergame/puttergame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
