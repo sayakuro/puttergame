@@ -5,7 +5,7 @@
 Now i do Modder Minecraft Fabric Version 
 - 🌨️ I'm Have A Dream is Devoloper Game | Website 
 - 🔭 I’m currently working on **@Rasetsu Project**
-**My current knowledge of code and language is 5%**
+-**My current knowledge of code and language is 5%**
 
 <!--
 Here are some ideas to get you started:
