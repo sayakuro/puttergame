@@ -3,8 +3,8 @@
 **Am Name Put** I recently joined in writing these Code. It's hard but not easy for me.
 
 Now i do Modder Minecraft Fabric Version 
-- 🌨️ I'm Have A Dream is Devoloper Game | Website 
-- 🔭 I’m currently working on **@Rasetsu Project**
+- 🌨️ interests | "Minecraft Modder" , "Web Development"
+- 🔭 I’m currently working on **@Rasetsu Studio**
 <!--
 Here are some ideas to get you started:
 
