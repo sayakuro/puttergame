@@ -4,7 +4,7 @@
 
 Now i do Modder Minecraft Fabric Version 
 - 🌨️ interests | "Minecraft Modder" , "Web Development" , "Open Source"
-- 🔭 I’m currently working on **@Rasetsu Studio**
+- 🔭 I’m currently working on **@Fateless Team**
 <!--
 Here are some ideas to get you started:
 
